@@ -69,9 +69,9 @@ Cat Love website provides all types of cat details images and you search for any
 </p>
 
 
-# Demo
+<!-- # Demo
 
-https://user-images.githubusercontent.com/101567046/194123519-582d0abb-e2f2-4325-b32f-1b6650177f57.mp4
+https://user-images.githubusercontent.com/101567046/194123519-582d0abb-e2f2-4325-b32f-1b6650177f57.mp4 -->
 
 # Show your support 
 Give a ⭐️ if you like this project!
