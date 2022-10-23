@@ -2,41 +2,49 @@
 
 
 # Cat_Love
-To Do is a task management app to help you stay organized and manage your day-to-day. You can use Todo-World App  To Do to make shopping lists or task and this is fully responsive todo app 
+Cat Love website provides all types of cat details images and you search for any breed of cat using the cat love website this is also a fully responsive website.
 
 # Live Link 
-<a href="https://todoworld.netlify.app/"></a>
+<a href="https://catlove1.netlify.app/index.html"></a>
 https://todoworld.netlify.app/
 
 # Youtube Link 
-https://www.youtube.com/watch?v=Kj7rmQ-WaR8&list=PLZQiN5xJpq1W5aB0Bw0mfkM6jniF7KtwL&index=4&t=59s
+<a href="https://youtu.be/Nf0_axgXpQw"></a>
+
 
 # Tech Stack 
-- React 
-- TypeScript
-- Css 
-- React icon Library
+- HTML 
+- CSS
+- JavaScript
+- The Cat API
 
 
 # Features
- - Add any number of  task
+ - Show random cat in home page
  - Fully responsive in all media size
- - Update Task 
- - Delete Task 
- - Complete Task 
-- Beautiful layout 
+ - Search by breed 
+ - Persist data using localstorage
+ - Good UI 
+
 
 
 # Images 
 
 # Home UI
-<img src="https://github.com/sgovind158/Todo-World/blob/main/readmeImg/Screenshot%202022-10-05%20150704.png?raw=true">
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/home1.png?raw=true">
 
-# Update Img
-<img src="https://github.com/sgovind158/Todo-World/blob/main/readmeImg/updateImg.png?raw=true">
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/home2.png?raw=true">
+
+# Cat Page
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/catPage.png?raw=true">
+
+# Search Page
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/search.png?raw=true">
 
 # Responsive in all device
-<img src="https://github.com/sgovind158/Todo-World/blob/main/readmeImg/responsive1Img.png?raw=true">
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/mediumResponsive.png?raw=true">
+
+<img src="https://github.com/sgovind158/Cat_Love/blob/main/Images/mobileResponsive.png?raw=true">
 
 
 # Connet with me 
