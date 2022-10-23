@@ -22,7 +22,7 @@ let displayBread = (data)=>{
             showBreadUsingScroll(el.id)
         })
         let p = document.createElement("p")
-        p.innerHTML = `Bread Name :- ${el.id}`
+        p.innerHTML = `Breed Name :- ${el.id}`
         div.append(p)
         showBreedList.append(div)
     })
